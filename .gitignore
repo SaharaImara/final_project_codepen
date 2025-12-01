@@ -1,5 +1,6 @@
 # Ignore environment files
 .env
+.gitignore
 
 # Ignore dependencies
 .vscode/
